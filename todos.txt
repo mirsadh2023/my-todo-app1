@@ -1,0 +1,6 @@
+Repair a car
+wait to find
+Calculate value
+Change the money
+Go to learn
+Learn Python
